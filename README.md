@@ -30,10 +30,10 @@ Clone the repository and and change the directory to the project folder:
 git clone https://github.com/kmahjoory/interaction-cnn-eeg-attention.git
 cd interaction-cnn-eeg-attention
 ```
-Create a virtual environment using the Python module "venv" and activate it:
+Create a virtual environment named "myenv" using the Python module "venv" and activate it:
 ```bash
-python -m venv "venv"
-source venv/bin/activate
+python -m venv "myenv"
+source myenv/bin/activate
 ```
 Install the required packages using pip and check the installed packages:
 ```bash
