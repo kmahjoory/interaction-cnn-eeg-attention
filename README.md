@@ -20,9 +20,7 @@ In this project we present a novel brain-inspired Convolutional Neural Network (
 - [Usage](#usage)
 - [Datasets](#datasets)
 - [Results](#results)
-- [Contributing](#contributing)
 - [Citing](#citing)
-- [License](#license)
 
 
 ## Installation
@@ -43,7 +41,6 @@ pip install -r requirements.txt
 pip list
 ```
 
-pip install -r requirements.txt
 
 
 ## Usage
