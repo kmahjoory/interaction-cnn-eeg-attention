@@ -26,14 +26,26 @@ In this project we present a novel brain-inspired Convolutional Neural Network (
 
 
 ## Installation
-```bash
 
+Clone the repository and and change the directory to the project folder:
+```bash
 git clone https://github.com/kmahjoory/interaction-cnn-eeg-attention.git
 cd interaction-cnn-eeg-attention
+```
+Create a virtual environment using the Python module "venv" and activate it:
+```bash
+python -m venv "venv"
+source venv/bin/activate
+```
+Install the required packages using pip and check the installed packages:
+```bash
+pip install -r requirements.txt
+pip list
+```
 
 pip install -r requirements.txt
 
-```
+
 ## Usage
 
 ## Datasets
